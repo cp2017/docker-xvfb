@@ -23,4 +23,4 @@ RUN apt-get update -y \
     libnss3-dev \
     gcc-multilib \
     g++-multilib
-
+RUN npm install -g angular-cli
